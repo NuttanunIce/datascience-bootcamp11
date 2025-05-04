@@ -6,7 +6,7 @@ This class is awesome!
 
 This bootcamp runs about 4 months, 10 sprints.
 
-* Google Sheets
+- Google Sheets
 - Database
 - R Programming
 - Data Transformation
