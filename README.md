@@ -29,7 +29,7 @@ SELECT "hello world" FROM bootcamp;
 Website: [dataRockie.com](dataRockie.com)
 
 ## Sky image
-My Image: ![aaa]([https://stock.adobe.com/th/search?k=sky](https://t3.ftcdn.net/jpg/01/02/64/28/360_F_102642850_Mca9lTRDH60DQin39YwCF5Jzd15lcdoo.jpg))
+My Image: ![aaa](https://t3.ftcdn.net/jpg/01/02/64/28/360_F_102642850_Mca9lTRDH60DQin39YwCF5Jzd15lcdoo.jpg)
 
 Email: nuttanun.chaiprasitpol@gmail.com
 
